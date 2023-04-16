@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Chào cậu!',
-    introDesc: `Ơ kìa nhìn cái rì thế ?`,
+    introDesc: `Ơ kìa nhìn cái gì thế ?`,
     btnIntro: 'Nhấn đây nè',
     title: 'Hôm nay nắng quá nhỉ ',
     desc: 'Cậu có muốn làm ny tớ không?',
